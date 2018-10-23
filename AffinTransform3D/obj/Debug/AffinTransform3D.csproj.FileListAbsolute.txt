@@ -1,0 +1,9 @@
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\bin\Debug\AffinTransform3D.exe.config
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\obj\Debug\AffinTransform3D.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\obj\Debug\AffinTransform3D.Properties.Resources.resources
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\obj\Debug\AffinTransform3D.csproj.GenerateResource.Cache
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\bin\Debug\AffinTransform3D.exe
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\bin\Debug\AffinTransform3D.pdb
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\obj\Debug\AffinTransform3D.exe
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\obj\Debug\AffinTransform3D.pdb
+C:\Users\1\Documents\CG_tasks\AffinTransform3D\obj\Debug\AffinTransform3D.Form1.resources
