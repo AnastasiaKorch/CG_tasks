@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\1\desktop\графика\лаба 12 введение\lab15\main.cpp(245): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\1\desktop\графика\лаба 12 введение\lab15\main.cpp(246): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\users\1\desktop\графика\лаба 12 введение\lab15\main.cpp(247): warning C4244: аргумент: преобразование "float" в "GLsizei", возможна потеря данных
+  lab15.vcxproj -> C:\Users\1\Desktop\Графика\Лаба 12 введение\x64\Debug\lab15.exe
+  lab15.vcxproj -> C:\Users\1\Desktop\Графика\Лаба 12 введение\x64\Debug\lab15.pdb (Full PDB)

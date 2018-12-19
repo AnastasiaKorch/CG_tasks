@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(19): warning C4305: инициализация: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(97): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(109): warning C4305: =: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(110): warning C4305: =: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(111): warning C4305: =: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(113): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(125): warning C4305: =: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(126): warning C4305: =: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(127): warning C4305: =: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(128): warning C4305: аргумент: усечение из "double" к "GLfloat"
+c:\users\1\desktop\лаба 10 часть 2\main.cpp(215): warning C4305: +=: усечение из "double" к "float"
+  Проект4.vcxproj -> C:\Users\1\Desktop\Лаба 10 часть 2\Debug\Проект4.exe
+  Проект4.vcxproj -> C:\Users\1\Desktop\Лаба 10 часть 2\Debug\Проект4.pdb (Partial PDB)

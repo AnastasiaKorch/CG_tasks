@@ -1,0 +1,57 @@
+newmtl Model_0:Teeth1SG
+illum 4
+Kd 0.95 0.94 0.93
+Ka 0.22 0.22 0.22
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.36 0.36 0.36
+Ns 40.50
+newmtl Model_0:blinn3SG
+illum 4
+Kd 0.96 0.62 0.59
+Ka 0.04 0.04 0.04
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.33 0.34 0.37
+newmtl Model_0:blinn5SG
+illum 4
+Kd 0.59 0.42 0.29
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.42 0.42 0.42
+newmtl Model_0:bodyTemp1SG
+illum 4
+Kd 0.10 0.09 0.09
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.56 0.55 0.60
+newmtl Model_0:corneasSG
+illum 4
+Kd 0.56 0.55 0.55
+Ka 0.17 0.16 0.16
+Tf 0.06 0.10 0.11
+Ni 1.00
+Ks 0.73 0.74 0.75
+newmtl Model_0:phong1SG
+illum 4
+Kd 1.00 0.96 0.94
+Ka 0.05 0.05 0.05
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 1.00 1.00 1.00
+newmtl Model_0:whiskers1SG
+illum 4
+Kd 0.32 0.31 0.31
+Ka 0.17 0.16 0.16
+Tf 0.54 0.59 0.61
+Ni 1.00
+Ks 0.74 0.73 0.73
+newmtl Model_0:whiskers2SG
+illum 4
+Kd 0.45 0.39 0.36
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.57 0.58 0.60
