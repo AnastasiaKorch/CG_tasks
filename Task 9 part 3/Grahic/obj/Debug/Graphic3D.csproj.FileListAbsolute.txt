@@ -1,0 +1,45 @@
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\bin\Debug\Grahic.exe.config
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\bin\Debug\Grahic.exe
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\bin\Debug\Grahic.pdb
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\obj\Debug\Graphic3D.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\obj\Debug\Graphic3D.Form1.resources
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\obj\Debug\Grahic.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\obj\Debug\Graphic3D.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\obj\Debug\Grahic.exe
+C:\Users\Игорь\Desktop\Хлам\Графика2\1-16\Individual2 (метод плавающего горизонта)\Grahic\obj\Debug\Grahic.pdb
+C:\Users\Игорь\Desktop\Ind2\Grahic\bin\Debug\Grahic.exe.config
+C:\Users\Игорь\Desktop\Ind2\Grahic\obj\Debug\Grahic.exe
+C:\Users\Игорь\Desktop\Ind2\Grahic\obj\Debug\Grahic.pdb
+C:\Users\Игорь\Desktop\Ind2\Grahic\bin\Debug\Grahic.exe
+C:\Users\Игорь\Desktop\Ind2\Grahic\bin\Debug\Grahic.pdb
+C:\Users\Игорь\Desktop\Ind2\Grahic\obj\Debug\Graphic3D.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\Ind2\Grahic\obj\Debug\Graphic3D.Form1.resources
+C:\Users\Игорь\Desktop\Ind2\Grahic\obj\Debug\Grahic.Properties.Resources.resources
+C:\Users\Игорь\Desktop\Ind2\Grahic\obj\Debug\Graphic3D.csproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\bin\Debug\Grahic.exe.config
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\obj\Debug\Grahic.exe
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\obj\Debug\Grahic.pdb
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\bin\Debug\Grahic.exe
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\bin\Debug\Grahic.pdb
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\obj\Debug\Graphic3D.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\obj\Debug\Graphic3D.Form1.resources
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\obj\Debug\Grahic.Properties.Resources.resources
+C:\Users\Никита\Desktop\ГРАФИКА-20170223T074212Z-001\ГРАФИКА\ГРАФИКА\Ind2\Ind2\Grahic\obj\Debug\Graphic3D.csproj.GenerateResource.Cache
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\bin\Debug\Grahic.exe.config
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\obj\Debug\Grahic.exe
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\obj\Debug\Grahic.pdb
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\bin\Debug\Grahic.exe
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\bin\Debug\Grahic.pdb
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\obj\Debug\Graphic3D.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\obj\Debug\Graphic3D.Form1.resources
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\obj\Debug\Grahic.Properties.Resources.resources
+C:\Users\1\Documents\Графика\пингвин\Комп Графика\Компьютерная графика\Инд-2. Построить график функции 2-х переменных алгоритм плавающего горизонта - сеткой\Grahic\obj\Debug\Graphic3D.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\bin\Debug\Grahic.exe.config
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Grahic.exe
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Grahic.pdb
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\bin\Debug\Grahic.exe
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\bin\Debug\Grahic.pdb
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Graphic3D.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Graphic3D.Form1.resources
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Grahic.Properties.Resources.resources
+C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Graphic3D.csproj.GenerateResource.Cache
