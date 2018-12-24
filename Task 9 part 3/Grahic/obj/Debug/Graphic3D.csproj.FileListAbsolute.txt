@@ -43,3 +43,6 @@ C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Graphic3D.csproj
 C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Graphic3D.Form1.resources
 C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Grahic.Properties.Resources.resources
 C:\Users\1\Desktop\Лаба 9 Горизонт\Grahic\obj\Debug\Graphic3D.csproj.GenerateResource.Cache
+C:\Users\1\Documents\CG_tasks\Task 9 part 3\Grahic\bin\Debug\Grahic.exe.config
+C:\Users\1\Documents\CG_tasks\Task 9 part 3\Grahic\obj\Debug\Grahic.exe
+C:\Users\1\Documents\CG_tasks\Task 9 part 3\Grahic\obj\Debug\Grahic.pdb
